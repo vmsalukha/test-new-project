@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vmsalukha/test-new-project/static/css/main.f855e6bc.css",
+    "main.js": "/vmsalukha/test-new-project/static/js/main.c89930ec.js",
+    "static/js/453.e4c07099.chunk.js": "/vmsalukha/test-new-project/static/js/453.e4c07099.chunk.js",
+    "static/media/logo.svg": "/vmsalukha/test-new-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vmsalukha/test-new-project/index.html",
+    "main.f855e6bc.css.map": "/vmsalukha/test-new-project/static/css/main.f855e6bc.css.map",
+    "main.c89930ec.js.map": "/vmsalukha/test-new-project/static/js/main.c89930ec.js.map",
+    "453.e4c07099.chunk.js.map": "/vmsalukha/test-new-project/static/js/453.e4c07099.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c89930ec.js"
+  ]
+}
