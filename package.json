@@ -1,7 +1,7 @@
 {
   "name": "test-new-project",
   "version": "0.1.0",
-  "homepage": "https://github.com/vmsalukha/test-new-project",
+  "homepage": "https://vmsalukha.github.io/test-new-project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
